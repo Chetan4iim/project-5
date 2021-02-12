@@ -1,0 +1,9 @@
+
+button{
+	font-size: 40px;
+background-color: red;
+border-color: blue;
+border-width: 15px;
+}
+
+hover{color: blue;}
